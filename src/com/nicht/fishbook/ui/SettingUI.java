@@ -7,11 +7,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.File;
 
-/**
- * @Author jogeen
- * @Date 14:28 2020/6/24
- * @Description
- */
+
 public class SettingUI {
     public JPanel settingPanel;
     public JTextField tfBookPath;

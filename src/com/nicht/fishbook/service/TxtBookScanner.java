@@ -12,11 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
-/**
- * @Author jogeen
- * @Date 14:28 2020/6/24
- * @Description
- */
+
 public class TxtBookScanner implements BookScanner {
 
     private String filePath;

@@ -8,11 +8,7 @@ import com.intellij.openapi.ui.MessageType;
 
 import java.io.File;
 
-/**
- * @Author jogeen
- * @Date 14:28 2020/6/24
- * @Description
- */
+
 public class BookScannerBuilder {
 
     private static BookScanner bookScaner=null;

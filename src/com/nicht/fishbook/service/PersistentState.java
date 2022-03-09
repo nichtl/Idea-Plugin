@@ -7,11 +7,7 @@ import com.intellij.openapi.components.Storage;
 import org.jdom.Element;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-/**
- * @Author jogeen
- * @Date 14:28 2020/6/24
- * @Description
- */
+
 
 @State(
         name = "PersistentState",

@@ -14,11 +14,7 @@ import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.List;
 
-/**
- * @Author jogeen
- * @Date 14:28 2020/6/24
- * @Description
- */
+
 public class ReadUI {
 
     private JPanel contentPanel;

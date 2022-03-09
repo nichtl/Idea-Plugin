@@ -14,11 +14,7 @@ import org.jetbrains.annotations.Nullable;
 import javax.swing.*;
 import java.io.File;
 
-/**
- * @Author jogeen
- * @Date 14:28 2020/6/24
- * @Description
- */
+
 public class SettingConfigFactory implements SearchableConfigurable {
     private SettingUI settingUI;
 

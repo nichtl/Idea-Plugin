@@ -12,11 +12,7 @@ import com.nicht.fishbook.service.PersistentState;
 import com.nicht.fishbook.ui.ReadUI;
 import org.jetbrains.annotations.NotNull;
 
-/**
- * @Author jogeen
- * @Date 14:28 2020/6/24
- * @Description
- */
+
 public class ReadWindowFactory implements ToolWindowFactory {
 
     public static ReadUI readUI;
